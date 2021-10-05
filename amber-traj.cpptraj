@@ -1,0 +1,7 @@
+parm alatri_wat.prmtop
+trajin prod1.nc
+center :1-397
+image center
+trajout prod2_wrapped.nc
+run
+quit
